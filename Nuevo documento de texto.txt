@@ -1,0 +1,7 @@
+Minecraft:
+Items: https://minecraft-ids.grahamedgecombe.com/items.json
+Entidades: https://minecraft-ids.grahamedgecombe.com/entities.json
+
+Leage of legends:
+https://ddragon.leagueoflegends.com/cdn/14.2.1/data/en_US/champion.json
+https://ddragon.leagueoflegends.com/cdn/14.2.1/data/en_US/item.json
