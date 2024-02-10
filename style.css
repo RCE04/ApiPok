@@ -92,6 +92,12 @@ footer img {
 }
 
 @media (width <= 640px){
+    nav img{
+        width: 40%;
+        display: inline;
+    
+    }
+
     #todo {
         flex-direction: column-reverse;
     }  
